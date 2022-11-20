@@ -1,2 +1,2 @@
 # CCP
-Concurrent Programming Assignment
+Concurrent Programming Assignment about Airports
